@@ -1,0 +1,6 @@
+datasets
+pandas
+Scikit-learn
+joblib
+fastapi
+uvicorn
